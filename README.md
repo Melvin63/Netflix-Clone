@@ -19,7 +19,7 @@ sign in :
   - title & descriptions
 - movie sections vertical scroll
 
-Netflix -GPT :
+#Netflix -GPT :
 
 - search bar
 - movie suggestions
