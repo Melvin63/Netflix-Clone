@@ -22,4 +22,4 @@ export const Supported_Languages = [
 ];
 
 export const Open_AI_Key =
-  "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";
+  "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";
